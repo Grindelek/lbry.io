@@ -5,10 +5,10 @@ category: mining
 Library Credits (LBC) are mined over a 20-year Proof of Work period.
 Block rewards increase every 100 blocks by 1LBC, peak at 500, and decline slowly.
 
-LBRY mining is dominated by the GPU and FPGA market and we don't see CPU mining as economically viable at this point.  If you still want to CPU mine to help the network, see instructions below. 
+LBRY mining is dominated by the GPU and FPGA market, and we don't see CPU mining as economically viable at this point.  If you still want to CPU mine to help the network, see instructions below. 
 
 For GPU mining, please see our list of [pools](https://lbry.io/faq/mining-pools). Each pool has a slightly different setup so please check their Getting Started page. We can also provide mining assistance via the #mining channel on [Discord Chat](https://chat.lbry.io).
-**Note:** Sgminer is for AMD GPU Cards and CCminer is for Nvidia GPU Cards
+**Note:** Sgminer is for AMD GPU Cards, and CCminer is for Nvidia GPU Cards
 
 For CPU mining, LBRY binaries are out for OS X, Windows, and Ubuntu. Others may try compiling from source.
 
